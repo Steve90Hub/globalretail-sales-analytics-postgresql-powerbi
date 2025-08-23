@@ -143,7 +143,7 @@ Data Analytics Capstone Project
 ## 🤝 Connect & Collaborate
 
 - **LinkedIn**: linkedin.com/in/stephen-kiri-9b8aa1136
-- **Email**: mailsteve90@gmail.com
+- **Email**: stephen.kiri.analyst@gmail.com
 - **Portfolio**: [Your Portfolio Website]
 
 ---
